@@ -28,9 +28,7 @@ Zuhriddin Abduganiyev
 
 ---
 
-#### Русский
-
-# Название проекта: Модель прогнозирования доходности
+# Модель прогнозирования доходности
 
 ## Описание проекта
 Цель проекта — создать модель машинного обучения для прогнозного анализа на основе данных с различными признаками, такими как размер клона, количество пчел, температуры и другие параметры окружающей среды. Цель состоит в том, чтобы предсказать определенные результаты (например, урожайность, количество семян) на основе этих признаков.
@@ -58,9 +56,7 @@ Zuhriddin Abduganiyev
 
 ---
 
-#### O'zbek
-
-# Loyihaning nomi: Hosildorlikni bashorat qilish modeli
+# Hosildorlikni bashorat qilish modeli
 
 ## Loyiha tavsifi
 Ushbu loyiha mashinalar o'qitish modeli orqali bashoratlash tahlilini amalga oshirishga qaratilgan. Ma'lumotlar to'plami klon hajmi, asalari soni, harorat va boshqa ekologik omillar kabi xususiyatlarni o'z ichiga oladi. Ushbu xususiyatlar asosida ayrim natijalarni (masalan, hosildorlik, urug'lar soni) bashorat qilish maqsad qilingan.
